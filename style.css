@@ -128,7 +128,7 @@ width: 111.0rem;
   }
 
   header{
-       width: 97rem;
+        min-width: 54rem;
         order:2;
   }
 
