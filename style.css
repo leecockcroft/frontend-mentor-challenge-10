@@ -160,6 +160,7 @@ line-height: 2.5rem; /* 166.667% */
 
   .header-bottom{
     display:flex;
+justify-content:space-around;
 
 padding-top: 3.2rem;
     padding-bottom:5.9rem;
