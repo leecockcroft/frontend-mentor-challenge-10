@@ -128,7 +128,7 @@ width: 111.0rem;
   }
 
   header{
-        width: 54rem;
+        min-width: 54rem;
         order:2;
   }
 
@@ -141,6 +141,10 @@ width: 111.0rem;
     padding-left:7.15rem;
     padding-right:10.9rem;
     text-align:left;
+
+  }
+  .header-text{
+
   }
 
   .header-bottom {
