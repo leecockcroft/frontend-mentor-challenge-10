@@ -132,9 +132,13 @@ width: 111.0rem;
         order:2;
   }
 
-  .header-title h1 {
+  .header-title  {
     padding:7.1rem 9rem 2.5rem 7.1rem;
     text-align:left;
+  }
+
+  .header-title h1{
+      text-align:left;
   }
 
   .header-text p {
@@ -143,9 +147,9 @@ width: 111.0rem;
     text-align:left;
 
   }
-  .header-text{
+.main-wrapper{
 
-  }
+}
 
   .header-bottom {
     display:flex;
