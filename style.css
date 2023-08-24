@@ -121,37 +121,30 @@ text-transform: uppercase;
   .container{
 padding:0;
 display:flex;
+height:44.6rem;
   }
 
   header{
-    width:52.90909090%;
-    order:2;
-  }
-.header-title h1{
-  font-size:3.6rem;
-  padding-top:7.1rem;
-  padding-left:7.2rem;
-}
-
-
-  main {
-    flex:1;
+        width: 54rem;
+        order:2;
   }
 
-  .header-bottom{
-    display:flex;
-    justify-content: space-evenly;
-    padding-top:7.2rem;
+  .header-title h1 {
+    padding:7.1rem 9rem 2.5rem 7.1rem;
+    text-align:left;
   }
 
-.header-text p ,.header-title h1{
-
-    text-align: left;
+  .header-text p {
     padding-left:7.15rem;
-
+    padding-right:10.9rem;
+    text-align:left;
   }
 
-  header,main{
-    width:50%;
+  .header-bottom {
+    display:flex;
+    padding-top:7.2rem;
+    justify-content: space-around;
   }
+
+
 }
